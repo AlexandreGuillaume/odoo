@@ -21,17 +21,17 @@ msgstr ""
 #: model:ir.actions.act_window,help:lunch.lunch_order_line_action_by_supplier
 #: model:ir.actions.act_window,help:lunch.lunch_order_line_action_control_suppliers
 msgid "- Click on the"
-msgstr ""
+msgstr "- Appuyez sur le"
 
 #. module: lunch
 #: model:ir.ui.view,arch_db:lunch.lunch_order_view_form
 msgid "<span class=\"o_stat_text\">Balance</span>"
-msgstr ""
+msgstr "<span class=\"o_stat_text\">Solde</span>"
 
 #. module: lunch
 #: model:ir.ui.view,arch_db:lunch.report_lunch_order
 msgid "<strong>Total</strong>"
-msgstr ""
+msgstr "<strong>Total</strong>"
 
 #. module: lunch
 #: model:ir.actions.act_window,help:lunch.lunch_cashmove_action_control_accounts
@@ -52,7 +52,7 @@ msgstr ""
 #. module: lunch
 #: model:ir.actions.act_window,help:lunch.lunch_product_action
 msgid "A product is defined by its name, category, price and vendor."
-msgstr ""
+msgstr "Un produit est défini par son nom, sa catégorie, son prix et son vendeur"
 
 #. module: lunch
 #. openerp-web
